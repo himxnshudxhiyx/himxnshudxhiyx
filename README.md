@@ -1,6 +1,6 @@
 # Hi there, I'm Himanshu Dahiya! 👋
 
-I'm a passionate Flutter Developer with over 2 years of experience in creating innovative, high-performance mobile applications. With expertise in Dart, Node.js, MongoDB, and Express.js, I have successfully delivered 14+ projects tailored to client needs. My approach focuses on crafting responsive designs, integrating APIs, and ensuring seamless functionality for end-users. I am committed to staying updated with the latest technologies and enjoy collaborating with teams to bring ideas to life. Let’s connect to discuss how I can contribute to your next big project!
+I'm a passionate Flutter Developer with over 2+ years of experience in creating innovative, high-performance mobile applications. With expertise in Dart, Node.js, MongoDB, and Express.js, I have successfully delivered 14+ projects tailored to client needs. My approach focuses on crafting responsive designs, integrating APIs, and ensuring seamless functionality for end-users. I am committed to staying updated with the latest technologies and enjoy collaborating with teams to bring ideas to life. Let’s connect to discuss how I can contribute to your next big project!
 
 ## 🛠️ Skills
 
